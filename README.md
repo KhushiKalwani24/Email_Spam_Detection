@@ -37,8 +37,7 @@ Email_Spam_Detection/
 🔹 Confusion Matrix
 This matrix shows how many emails were correctly and incorrectly classified.
 
-![Confusion Matrix](images/confusion_matrix.png)
-
+<img width="640" height="480" alt="Image" src="https://github.com/user-attachments/assets/c64a4d80-c4d2-4848-83d6-81a89f68fbfb" />
 ---
 🔹 Word Cloud
 This shows the most frequent words in spam emails.
