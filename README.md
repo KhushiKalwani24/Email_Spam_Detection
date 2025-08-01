@@ -37,9 +37,31 @@ Email_Spam_Detection/
 🔹 Confusion Matrix
 This matrix shows how many emails were correctly and incorrectly classified.
 
-<img width="640" height="480" alt="Image" src="https://github.com/user-attachments/assets/c64a4d80-c4d2-4848-83d6-81a89f68fbfb" />
+<img width="565" height="471" alt="Image" src="https://github.com/user-attachments/assets/5d92636e-a0b6-4fe9-b95b-fbd72e33f4ef" />
 ---
 🔹 Word Cloud
 This shows the most frequent words in spam emails.
 
-![Word Cloud](images/wordcloud.png)
+<img width="561" height="319" alt="Image" src="https://github.com/user-attachments/assets/e0851670-98ab-47b0-bdad-7d93a4c5331c" />
+---
+
+## 🚀 Project Overview
+
+This project aims to detect spam emails using machine learning techniques. By analyzing the textual content of emails, the model classifies them as either "Spam" or "Not Spam". It includes preprocessing steps, feature extraction (TF-IDF), model training, evaluation, and visualization.
+
+---
+## 📂 Dataset Description
+
+The dataset contains labeled emails in CSV format. Each email has two columns:
+- **text** – the raw email content
+- **label** – either `spam` or `ham` (not spam)
+
+---
+## 💡 Key Features
+
+- Clean and structured code using Jupyter Notebook
+- Word cloud for spam keyword analysis
+- Confusion matrix visualization
+- Modular design and easy-to-run code
+---
+
