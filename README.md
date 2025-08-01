@@ -22,27 +22,29 @@ It uses text processing and a Naive Bayes classifier to understand and filter em
 
 ---
 
-## 📂 Folder Structure
+📁 Email_Spam_Detection/
 
-```bash
-Email_Spam_Detection/
-│
-├── email_spam_detection.ipynb   # Main notebook
-├── dataset/                     # Email dataset (CSV format)
-├── images/                      # Saved plots (word cloud, confusion matrix)
-├── requirements.txt             # Required Python packages
+├── email_spam_detection.ipynb   # Main notebook  
+├── dataset/                     # Email dataset (CSV format)  
+├── images/                      # Saved plots (word cloud, confusion matrix)  
+├── requirements.txt             # Required Python packages  
 └── README.md                    # This file
 
-
-------
+---
 📷 Visual Outputs
-🔹 Confusion Matrix
+---
+
+### 📊 Confusion Matrix
+
 This matrix shows how many emails were correctly and incorrectly classified.
+
 
 <img width="565" height="471" alt="Image" src="https://github.com/user-attachments/assets/c6d53e4b-bc75-48db-8748-439a726bf086" />
 
-🔹 Word Cloud
+### ☁️ Word Cloud
+
 This shows the most frequent words in spam emails.
+
 
 <img width="561" height="319" alt="Image" src="https://github.com/user-attachments/assets/e0851670-98ab-47b0-bdad-7d93a4c5331c" />
 ---
