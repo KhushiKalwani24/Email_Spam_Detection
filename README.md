@@ -33,6 +33,8 @@ Email_Spam_Detection/
 ├── requirements.txt             # Required Python packages
 └── README.md                    # This file
 
+
+------
 📷 Visual Outputs
 🔹 Confusion Matrix
 This matrix shows how many emails were correctly and incorrectly classified.
